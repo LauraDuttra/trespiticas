@@ -11,8 +11,7 @@ O WordPress é um sistema de gerenciamento de conteúdo (CMS) gratuito e de cód
 7. ![Captura de tela 2025-04-29 163316](https://github.com/user-attachments/assets/d3cc3d0c-79b6-417b-9e6d-661a589915a4)
 8. ![Captura de tela 2025-04-29 163527](https://github.com/user-attachments/assets/8b4baa32-4faf-4e78-ab55-6bc3d2973029)
 9. ![Captura de tela 2025-04-29 163636](https://github.com/user-attachments/assets/65f8ce54-f750-4903-a1fa-924db220c5cb)
-10. 
-
+10. ![Captura de tela 2025-04-29 163935](https://github.com/user-attachments/assets/938e95d5-3a10-4598-9c86-84a4aa3ba385)
 
 
 
